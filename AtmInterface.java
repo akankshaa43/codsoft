@@ -6,7 +6,7 @@
         String userName;
         String password;
         String accountNo;
-        float balance = 10000f;
+        float balance = 30000f;
         int transactions = 0;
         String transactionHistory = "";
         
